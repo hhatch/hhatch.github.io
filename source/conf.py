@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# hhatch.com documentation build configuration file, created by
+# hhatch.github.io documentation build configuration file, created by
 # sphinx-quickstart on Thu Apr 26 21:20:13 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'hhatch.com'
+project = 'hhatch.github.io'
 copyright = '2018, Harold Wickes Hatch'
 author = 'Harold Wickes Hatch'
 
@@ -122,7 +122,7 @@ html_last_updated_fmt = time.strftime("%c")
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'hhatch.comdoc'
+htmlhelp_basename = 'hhatch.github.iodoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -146,7 +146,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'hhatch.com.tex', 'Curriculum Vitae',
+    (master_doc, 'hhatch.github.io.tex', 'Curriculum Vitae',
      'Harold Wickes Hatch', 'manual'),
 ]
 
@@ -167,8 +167,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'hhatch.com', 'Harold Wickes Hatch Curriculum Vitae',
-     author, 'hhatch.com', 'One line description of project.',
+    (master_doc, 'hhatch.github.io', 'Harold Wickes Hatch Curriculum Vitae',
+     author, 'hhatch.github.io', 'One line description of project.',
      'Miscellaneous'),
 ]
 
