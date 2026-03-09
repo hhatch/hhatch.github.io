@@ -11,12 +11,12 @@ Harold Wickes Hatch (a.k.a. Wick)
   - Email: harold.hatch@nist.gov
   - Office Phone: (301) 975-5421
   - Website: https://www.nist.gov/people/harold-wickes-hatch
-  - Personal Website: https://hhatch.com
+  - Personal Website: https://hhatch.github.io
 
 `Click here for PDF version`_
 ==================================
 
-.. _Click here for PDF version: https://www.hhatch.com/hwh_cv.pdf
+.. _Click here for PDF version: https://hhatch.github.io/cv.pdf
 
 Education
 ============
@@ -110,12 +110,12 @@ Publications
 #. **"Anisotropic coarse-grain Monte Carlo simulations of lysozyme, lactoferrin, and NISTmAb by precomputing atomistic models"**, H. W. Hatch, C. Bergonzo, M. A. Blanco, G. Yuan, S. Grudinin, M. Lund, J. E. Curtis, A. Grishaev, Y. Liu and V. K. Shen, J. Chem. Phys., 161, 9, 094113, 2024.
 
    - https://doi.org/10.1063/5.0224809
-   - https://hhatch.com/papers/JCPv161n94113y2024.pdf
+   - https://hhatch.github.io/papers/JCPv161n94113y2024.pdf
 
 #. **"Monte Carlo molecular simulations with FEASST version 0.25.1"** H. W. Hatch, D. W. Siderius and V. K. Shen, J. Chem. Phys., 161, 9, 092501, 2024.
 
    - https://doi.org/10.1063/5.0224283
-   - https://hhatch.com/papers/JCPv161n92501y2024.pdf
+   - https://hhatch.github.io/papers/JCPv161n92501y2024.pdf
 
 #. **"Flow Activation Energy of High-Concentration Monoclonal Antibody Solutions and Protein–Protein Interactions Influenced by NaCl and Sucrose"** G. Yuan, P F. Salipante, S. D. Hudson, R. E. Gillilan, Q. Huang, H. W. Hatch, V. K. Shen, A. V. Grishaev, S. Pabit, R. Upadhya, S. Adhikari, J. Panchal, M. A. Blanco and Y. Liu, Mol. Pharmaceutics, 21, 9, 4553, 2024.
 
@@ -124,7 +124,7 @@ Publications
 #. **"Theory and Monte Carlo simulation of the ideal gas with shell particles in the canonical, isothermal-isobaric, grand canonical and Gibbs ensembles"** H. W. Hatch, V. K. Shen, and D. S. Corti, J. Chem. Phys., 161, 8, 084106, 2024.
 
    - https://doi.org/10.1063/5.0224305
-   - https://hhatch.com/papers/JCPv161n084106y2024.pdf
+   - https://hhatch.github.io/papers/JCPv161n084106y2024.pdf
 
 #. **"Flat-Histogram Monte Carlo Simulation of Water Adsorption in Metal–Organic Frameworks"** D. W. Siderius, H. W. Hatch, V. K Shen, J. Phys. Chem. B, 128, 19, 4830-4845, 2024.
 
@@ -143,7 +143,7 @@ Publications
 #. **"Efficiency Comparison of Single- and Multiple-Macrostate Grand Canonical Ensemble Transition-Matrix Monte Carlo Simulations"** H. W. Hatch, D. W. Siderius, J. R. Errington and V. K. Shen, J. Phys. Chem. B, 127, 3041-3051, 2023.
 
    - https://doi.org/10.1021/acs.jpcb.3c00613
-   - https://hhatch.com/papers/JCPv127y2023.pdf
+   - https://hhatch.github.io/papers/JCPv127y2023.pdf
 
 #. **"Temperature Extrapolation of Henry’s Law Constants and the Isosteric Heat of Adsorption"** D. W. Siderius, H. W. Hatch, V. K. Shen, J. Phys. Chem. B, 126, 7999-8009, 2022.
 
@@ -235,23 +235,23 @@ Publications
 #. **"Molecular dynamics simulation of trimer self-assembly under shear"** R.D. Mountain, H. W. Hatch and V. K. Shen, Fluid Phase Equilibria, 440, 87-94, 2017.
 
    - https://dx.doi.org/10.1016/j.fluid.2017.02.017
-   - https://hhatch.com/papers/FPEv440p87y2017.pdf
+   - https://hhatch.github.io/papers/FPEv440p87y2017.pdf
 
 #. **"Depletion-driven crystallization of cubic colloids sedimented on a surface"** H. W. Hatch, W. P. Krekelberg, S. D. Hudson and V. K. Shen, J. Chem. Phys., 144, 194902, 2016.
 
    - https://dx.doi.org/10.1063/1.4949758
-   - https://hhatch.com/papers/JCPv144n194902y2016.pdf
+   - https://hhatch.github.io/papers/JCPv144n194902y2016.pdf
 
 #. **"Self-assembly of trimer colloids: effect of shape and interaction range"** H. W. Hatch, S. Y. Yang, J. Mittal and V. K. Shen, Soft Matter, 12, 4170-4179, 2016.
 
    - https://dx.doi.org/10.1039/C6SM00473C
    - https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=919870
-   - https://hhatch.com/papers/C6SM00473C.pdf
+   - https://hhatch.github.io/papers/C6SM00473C.pdf
 
 #. **"Computational study of trimer self-assembly and fluid phase behavior"** H. W. Hatch, J. Mittal and V. K. Shen, J. Chem. Phys., 142, 164901, 2015.
 
    - https://dx.doi.org/10.1063/1.4918557
-   - https://hhatch.com/papers/JCPv142n164901y2015.pdf
+   - https://hhatch.github.io/papers/JCPv142n164901y2015.pdf
 
 #. **"Computational Study of the Stability of the Miniprotein Trp-Cage, the GB1 β-Hairpin, and the AK16 Peptide, under Negative Pressure"** H. W. Hatch, F. H. Stillinger and P. G. Debenedetti, J. Phys. Chem. B, 118, 7761-7769, 2014.
 
@@ -260,17 +260,17 @@ Publications
 #. **"Molecular modeling of mechanical stresses on proteins in glassy matrices: Formalism"** H. W. Hatch and P. G. Debenedetti, J. Chem. Phys., 137, 035103, 2012.
 
    - https://dx.doi.org/10.1063/1.4734007
-   - https://hhatch.com/papers/JCPv137n035103.pdf
+   - https://hhatch.github.io/papers/JCPv137n035103.pdf
 
 #. **"Chiral symmetry breaking in a microscopic model with asymmetric autocatalysis and inhibition"** H. W. Hatch, F.H. Stillinger and P. G. Debenedetti, J. Chem. Phys., 133, 224502, 2010.
 
    - https://dx.doi.org/10.1063/1.3511715
-   - https://hhatch.com/papers/JCPv133n224502.pdf
+   - https://hhatch.github.io/papers/JCPv133n224502.pdf
 
 #. **"Assessing the thermodynamic signatures of hydrophobic hydration for several common water models"** H. S. Ashbaugh, N. J. Collett, H. W. Hatch, J. A. Staton, J. Chem. Phys., 132, 124504, 2010.
 
    - https://dx.doi.org/10.1063/1.3366718
-   - https://hhatch.com/papers/JCPv132n124504.pdf
+   - https://hhatch.github.io/papers/JCPv132n124504.pdf
 
 #. **"Natively unfolded protein stability as a coil-to-globule transition in charge/hydropathy space"** H. S. Ashbaugh and H. W. Hatch, J. Amer. Chem. Soc., 130, 9536, 2008.
 
@@ -445,7 +445,7 @@ Computer Skills
 
 **Website Administration**
 
-  - FEASST, NIST SRSW, PGD, PGD Group and hhatch.com
+  - FEASST, NIST SRSW, PGD, PGD Group and hhatch.github.io
 
 **Other Software**
 
