@@ -454,7 +454,7 @@ Computer Skills
 Available Opportunities
 =========================
 
-  - For current graduate students, contact me about applying for the `NIST NRC RAP Fellowship Opporunity 1 <https://ra.nas.edu/RAPLab10/Opportunity/Opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0480>`_ or `2 <https://ra.nas.edu/RAPLab10/Opportunity/opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0909>`_
+  - For current graduate students (or graduated in the last 5 years), contact me about applying for the `NIST NRC RAP Fellowship <https://ra.nas.edu/RAPLab10/Opportunity/Opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0480>`_
 
   - For current undergraduate students, contact me about applying for NIST SURF: https://www.nist.gov/surf
 
