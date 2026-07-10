@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 78 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 79 0 R
 >>
 endobj
 2 0 obj
@@ -48,7 +48,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Annots [ 6 0 R 7 0 R 8 0 R ] /Contents 142 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/Annots [ 6 0 R 7 0 R 8 0 R ] /Contents 141 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -80,48 +80,48 @@ endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0316275)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 354.7736 252.5736 366.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.6c01665)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 354.7736 283.1336 366.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0303699)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 294.7736 252.5736 306.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0316275)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 306.7736 252.5736 318.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.33011/livecoms.6.1.3289)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 246.7736 291.4636 258.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0303699)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 246.7736 252.5736 258.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.5c02389)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 186.7736 283.1336 198.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.33011/livecoms.6.1.3289)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 198.7736 291.4636 210.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.energyfuels.5c00420)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 126.7736 316.4836 138.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.5c02389)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 138.7736 283.1336 150.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.5c00536)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 66.77362 283.1336 78.77362 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.energyfuels.5c00420)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 78.77362 316.4836 90.77362 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
-/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R ] /Contents 143 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R ] /Contents 142 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -132,566 +132,573 @@ endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpclett.4c02629)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 705.7736 290.9136 717.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.5c00536)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 705.7736 283.1336 717.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/jacsau.4c00429)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 645.7736 275.3536 657.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpclett.4c02629)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 645.7736 290.9136 657.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 22 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0224809)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 585.7736 252.5736 597.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/jacsau.4c00429)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 585.7736 275.3536 597.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv161n94113y2024.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 567.7736 357.6236 579.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0224809)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 525.7736 252.5736 537.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0224283)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 519.7736 252.5736 531.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv161n94113y2024.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 507.7736 357.6236 519.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv161n92501y2024.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 501.7736 357.6236 513.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0224283)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 459.7736 252.5736 471.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.molpharmaceut.4c00460)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 429.7736 333.7036 441.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv161n92501y2024.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 441.7736 357.6236 453.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 27 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0224305)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 369.7736 252.5736 381.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.molpharmaceut.4c00460)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 369.7736 333.7036 381.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 28 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv161n084106y2024.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 351.7736 363.1836 363.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0224305)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 309.7736 252.5736 321.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 29 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.4c00753)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 303.7736 283.1336 315.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv161n084106y2024.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 291.7736 363.1836 303.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 30 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=957246)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 285.7736 380.1336 297.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.4c00753)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 243.7736 283.1336 255.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.3c03928)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 213.7736 283.1336 225.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=957246)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 225.7736 380.1336 237.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 32 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1039/D3SM00447C)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 165.7736 268.1136 177.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.3c03928)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 153.7736 283.1336 165.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936679)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 147.7736 380.1336 159.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1039/D3SM00447C)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 105.7736 268.1136 117.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 34 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.3c00613)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 87.77362 283.1336 99.77362 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936679)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 87.77362 380.1336 99.77362 ] /Subtype /Link /Type /Annot
 >>
 endobj
 35 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv127y2023.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 69.77362 324.2636 81.77362 ] /Subtype /Link /Type /Annot
->>
-endobj
-36 0 obj
-<<
 /Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 
-  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R ] /Contents 144 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R ] /Contents 143 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.3c00613)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 705.7736 283.1336 717.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 37 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.2c04583)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 717.7736 283.1336 729.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv127y2023.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 687.7736 324.2636 699.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 38 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=935037)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 699.7736 380.1336 711.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcb.2c04583)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 639.7736 283.1336 651.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 39 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1002/aic.17686)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 639.7736 248.6736 651.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=935037)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 621.7736 380.1336 633.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 40 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0014282)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 579.7736 252.5736 591.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1002/aic.17686)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 561.7736 248.6736 573.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 41 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930298)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 561.7736 380.1336 573.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/5.0014282)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 501.7736 252.5736 513.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 42 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpca.0c05242)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 513.7736 283.1336 525.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930298)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 483.7736 380.1336 495.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 43 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7808336/)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 495.7736 352.5536 507.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpca.0c05242)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 435.7736 283.1336 447.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 44 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcc.0c02671)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 435.7736 282.5736 447.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7808336/)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 417.7736 352.5536 429.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 45 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930106)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 417.7736 380.1336 429.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1021/acs.jpcc.0c02671)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 357.7736 282.5736 369.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 46 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1080/08927022.2020.1747617)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 369.7736 316.5136 381.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930106)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 339.7736 380.1336 351.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 47 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=929154)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 351.7736 380.1336 363.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1080/08927022.2020.1747617)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 291.7736 316.5136 303.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 48 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1039/C9SM01877H)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 303.7736 268.1136 315.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=929154)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 273.7736 380.1336 285.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 49 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925778)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 285.7736 380.1336 297.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1039/C9SM01877H)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 225.7736 268.1136 237.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 50 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.124.032)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 237.7736 260.3436 249.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925778)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 207.7736 380.1336 219.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5123683)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 177.7736 252.5736 189.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.124.032)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 159.7736 260.3436 171.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 52 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=928337)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 159.7736 380.1336 171.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5123683)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 99.77362 252.5736 111.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 53 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1039/C9ME00006B)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 111.7736 267.5636 123.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=928337)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 81.77362 380.1336 93.77362 ] /Subtype /Link /Type /Annot
 >>
 endobj
 54 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927382)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 93.77362 380.1336 105.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-55 0 obj
-<<
-/Annots [ 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 
-  47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R ] /Contents 145 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/Annots [ 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 
+  46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R ] /Contents 144 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1039/C9ME00006B)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 717.7736 267.5636 729.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 56 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1016/j.xphs.2018.12.013)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 705.7736 289.8136 717.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=927382)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 699.7736 380.1336 711.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=926491)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 687.7736 380.1336 699.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1016/j.xphs.2018.12.013)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 639.7736 289.8136 651.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 58 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5040252)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 639.7736 252.5736 651.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=926491)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 621.7736 380.1336 633.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 59 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5029274)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 579.7736 252.5736 591.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5040252)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 573.7736 252.5736 585.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 60 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1039/C8SM00989A)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 519.7736 267.5636 531.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5029274)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 513.7736 252.5736 525.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 61 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925282)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 501.7736 380.1336 513.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1039/C8SM00989A)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 453.7736 267.5636 465.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 62 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5026493)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 453.7736 252.5736 465.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=925282)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 435.7736 380.1336 447.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 63 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.123.004)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 405.7736 260.3436 417.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5026493)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 387.7736 252.5736 399.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 64 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5016165)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 345.7736 252.5736 357.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.123.004)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 339.7736 260.3436 351.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 65 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.18434/T4M88Q)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 285.7736 249.7736 297.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5016165)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 279.7736 252.5736 291.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 66 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1039/C7SM01005B)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 237.7736 267.5636 249.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.18434/T4M88Q)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 219.7736 249.7736 231.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 67 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=922982)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 219.7736 380.1336 231.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://doi.org/10.1039/C7SM01005B)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 171.7736 267.5636 183.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 68 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1016/j.fluid.2017.02.017)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 171.7736 300.3736 183.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=922982)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 153.7736 380.1336 165.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 69 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/FPEv440p87y2017.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 153.7736 341.5036 165.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1016/j.fluid.2017.02.017)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 105.7736 300.3736 117.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 70 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.4949758)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 105.7736 265.9136 117.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/FPEv440p87y2017.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 87.77362 341.5036 99.77362 ] /Subtype /Link /Type /Annot
 >>
 endobj
 71 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv144n194902y2016.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 87.77362 363.1836 99.77362 ] /Subtype /Link /Type /Annot
->>
-endobj
-72 0 obj
-<<
-/Annots [ 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 
-  66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R ] /Contents 146 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/Annots [ 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 
+  65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R ] /Contents 145 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.4949758)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 717.7736 265.9136 729.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 73 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1039/C6SM00473C)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 717.7736 281.4536 729.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv144n194902y2016.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 699.7736 363.1836 711.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 74 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=919870)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 699.7736 380.1336 711.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1039/C6SM00473C)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 651.7736 281.4536 663.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 75 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/C6SM00473C.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 681.7736 319.2536 693.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=919870)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 633.7736 380.1336 645.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 76 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.4918557)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 633.7736 265.9136 645.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/C6SM00473C.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 615.7736 319.2536 627.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 77 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv142n164901y2015.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 615.7736 363.1836 627.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.4918557)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 567.7736 265.9136 579.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 78 0 obj
 <<
-/BaseFont /Symbol /Name /F5 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv142n164901y2015.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 549.7736 363.1836 561.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 79 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1021/jp410651u)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 555.7736 265.3536 567.7736 ] /Subtype /Link /Type /Annot
+/BaseFont /Symbol /Name /F5 /Subtype /Type1 /Type /Font
 >>
 endobj
 80 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.4734007)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 507.7736 265.9136 519.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1021/jp410651u)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 489.7736 265.3536 501.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 81 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv137n035103.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 489.7736 335.9436 501.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.4734007)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 441.7736 265.9136 453.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 82 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.3511715)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 441.7736 265.9136 453.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv137n035103.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 423.7736 335.9436 435.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 83 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv133n224502.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 423.7736 335.9436 435.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.3511715)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 375.7736 265.9136 387.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 84 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.3366718)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 375.7736 265.9136 387.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv133n224502.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 357.7736 335.9436 369.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 85 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv132n124504.pdf)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 357.7736 335.9436 369.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1063/1.3366718)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 309.7736 265.9136 321.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 86 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://dx.doi.org/10.1021/ja802124e)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 309.7736 265.3536 321.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://hhatch.github.io/papers/JCPv132n124504.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 291.7736 335.9436 303.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 87 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://acs.digitellinc.com/live/35/session/568449)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 198.7736 318.6736 210.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://dx.doi.org/10.1021/ja802124e)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 243.7736 265.3536 255.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 88 0 obj
 <<
-/Annots [ 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 
-  84 0 R 85 0 R 86 0 R 87 0 R ] /Contents 147 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://acs.digitellinc.com/live/35/session/568449)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 132.7736 318.6736 144.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/Annots [ 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 80 0 R 81 0 R 82 0 R 
+  83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R ] /Contents 146 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
->>
-endobj
-89 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.stevens.edu/school-engineering-science/departments/chemical-engineering-materials-science/seminars)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 717.7736 535.9536 729.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 90 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.stevens.edu/school-engineering-science/departments/chemical-engineering-materials-science/seminars)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 705.7736 183.5936 717.7736 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 651.7736 535.9536 663.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 91 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://sites.google.com/view/stms2021/schedule)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 645.7736 319.7836 657.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.stevens.edu/school-engineering-science/departments/chemical-engineering-materials-science/seminars)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 639.7736 183.5936 651.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 92 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linxs.se/events/webinar-antibodies-in-solution-a-linxscgsimulations)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 585.7736 451.4536 597.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://sites.google.com/view/stms2021/schedule)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 579.7736 319.7836 591.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 93 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://chemical-engineering.uark.edu/academics/graduate-program/seminar.php)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 525.7736 460.9436 537.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.linxs.se/events/webinar-antibodies-in-solution-a-linxscgsimulations)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 519.7736 451.4536 531.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 94 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://pgd70.princeton.edu/)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 453.7736 226.9936 465.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://chemical-engineering.uark.edu/academics/graduate-program/seminar.php)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 459.7736 460.9436 471.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 95 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://workshops.ill.fr/event/143/page/141-programme-titles-abstracts)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 393.7736 412.5836 405.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://pgd70.princeton.edu/)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 387.7736 226.9936 399.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 96 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://molssi.org/2019/03/18/molssi-sustainable-software-symposium-at-spring-2019-acs-meeting/)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 333.7736 537.0436 345.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://workshops.ill.fr/event/143/page/141-programme-titles-abstracts)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 327.7736 412.5836 339.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 97 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://molssi.org/2019/03/18/molssi-sustainable-software-symposium-at-spring-2019-acs-meeting/)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 321.7736 105.8036 333.7736 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 267.7736 537.0436 279.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 98 0 obj
 <<
-/Annots [ 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R ] /Contents 148 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://molssi.org/2019/03/18/molssi-sustainable-software-symposium-at-spring-2019-acs-meeting/)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 255.7736 105.8036 267.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/Annots [ 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R ] /Contents 147 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -699,19 +706,9 @@ endobj
 >> /Type /Page
 >>
 endobj
-99 0 obj
-<<
-/Contents 149 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
->>
-endobj
 100 0 obj
 <<
-/Contents 150 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/Contents 148 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -721,156 +718,7 @@ endobj
 endobj
 101 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://pages.nist.gov/feasst/)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 570.7736 229.7636 582.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-102 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/usnistgov/feasst)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 552.7736 256.4336 564.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-103 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.123.004)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 534.7736 260.3436 546.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-104 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.18434/M3S095)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 516.7736 248.1136 528.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-105 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/usnistgov/mayer-extrapolation)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 444.7736 318.1136 456.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-106 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5016165)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 426.7736 252.5736 438.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-107 0 obj
-<<
-/Annots [ 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R ] /Contents 151 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-108 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://ra.nas.edu/RAPLab10/Opportunity/Opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0480)
->> /Border [ 0 0 0 ] /Rect [ 387.9536 711.0236 535.9652 723.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-109 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://ra.nas.edu/RAPLab10/Opportunity/Opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0480)
->> /Border [ 0 0 0 ] /Rect [ 100.0236 699.0236 157.2736 711.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-110 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://ra.nas.edu/RAPLab10/Opportunity/opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0909)
->> /Border [ 0 0 0 ] /Rect [ 171.7236 699.0236 177.2836 711.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-111 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.nist.gov/surf)
->> /Border [ 0 0 0 ] /Rect [ 100.0236 669.0236 208.3936 681.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-112 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://scholar.google.com/citations?user=3pNUxEYAAAAJ&hl=en&oi=ao)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 519.0236 428.4536 531.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-113 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://orcid.org/0000-0003-3732-0641)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 501.7736 273.6736 513.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-114 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5123683)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 351.7736 252.5736 363.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-115 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5026493)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 249.7736 252.5736 261.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-116 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5016165)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 231.7736 252.5736 243.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-117 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.124.032)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 111.7736 260.3436 123.7736 ] /Subtype /Link /Type /Annot
->>
-endobj
-118 0 obj
-<<
-/Annots [ 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R ] /Contents 152 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-119 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://doi.org/10.1039/C6SM00473C)
->> /Border [ 0 0 0 ] /Rect [ 103.0236 729.4429 268.1136 741.4429 ] /Subtype /Link /Type /Annot
->>
-endobj
-120 0 obj
-<<
-/Annots [ 119 0 R ] /Contents 153 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-121 0 obj
-<<
-/Contents 154 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 141 0 R /Resources <<
+/Contents 149 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -878,109 +726,254 @@ endobj
   /Type /Page
 >>
 endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://pages.nist.gov/feasst/)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 486.7736 229.7636 498.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/usnistgov/feasst)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 468.7736 256.4336 480.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.123.004)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 450.7736 260.3436 462.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.18434/M3S095)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 432.7736 248.1136 444.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/usnistgov/mayer-extrapolation)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 360.7736 318.1136 372.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5016165)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 342.7736 252.5736 354.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/Annots [ 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R ] /Contents 150 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ra.nas.edu/RAPLab10/Opportunity/Opportunity.aspx?LabCode=50&ROPCD=506461&RONum=C0480)
+>> /Border [ 0 0 0 ] /Rect [ 100.0236 651.0236 220.5936 663.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.nist.gov/surf)
+>> /Border [ 0 0 0 ] /Rect [ 100.0236 621.0236 208.3936 633.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://scholar.google.com/citations?user=3pNUxEYAAAAJ&hl=en&oi=ao)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 471.0236 428.4536 483.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://orcid.org/0000-0003-3732-0641)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 453.7736 273.6736 465.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5123683)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 303.7736 252.5736 315.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5026493)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 201.7736 252.5736 213.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1063/1.5016165)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 183.7736 252.5736 195.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.6028/jres.124.032)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 63.77362 260.3436 75.77362 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/Annots [ 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R ] /Contents 151 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://doi.org/10.1039/C6SM00473C)
+>> /Border [ 0 0 0 ] /Rect [ 103.0236 681.4429 268.1136 693.4429 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/Annots [ 118 0 R ] /Contents 152 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+120 0 obj
+<<
+/Contents 153 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 140 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+121 0 obj
+<<
+/Outlines 123 0 R /PageLabels 154 0 R /PageMode /UseNone /Pages 140 0 R /Type /Catalog
+>>
+endobj
 122 0 obj
 <<
-/Outlines 124 0 R /PageLabels 155 0 R /PageMode /UseNone /Pages 141 0 R /Type /Catalog
+/Author () /CreationDate (D:20260710141708+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260710141708+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
 123 0 obj
 <<
-/Author () /CreationDate (D:20260309101615+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260309101615+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title () /Trapped /False
+/Count 16 /First 124 0 R /Last 139 0 R /Type /Outlines
 >>
 endobj
 124 0 obj
 <<
-/Count 16 /First 125 0 R /Last 140 0 R /Type /Outlines
+/Dest [ 9 0 R /XYZ 57.02362 765.0236 0 ] /Next 125 0 R /Parent 123 0 R /Title (Harold Wickes Hatch \(a.k.a. Wick\))
 >>
 endobj
 125 0 obj
 <<
-/Dest [ 9 0 R /XYZ 57.02362 765.0236 0 ] /Next 126 0 R /Parent 124 0 R /Title (Harold Wickes Hatch \(a.k.a. Wick\))
+/Dest [ 9 0 R /XYZ 57.02362 548.0236 0 ] /Next 126 0 R /Parent 123 0 R /Prev 124 0 R /Title (Education)
 >>
 endobj
 126 0 obj
 <<
-/Dest [ 9 0 R /XYZ 57.02362 548.0236 0 ] /Next 127 0 R /Parent 124 0 R /Prev 125 0 R /Title (Education)
+/Dest [ 9 0 R /XYZ 57.02362 385.0236 0 ] /Next 127 0 R /Parent 123 0 R /Prev 125 0 R /Title (Fellowships and Scholarships)
 >>
 endobj
 127 0 obj
 <<
-/Dest [ 9 0 R /XYZ 57.02362 385.0236 0 ] /Next 128 0 R /Parent 124 0 R /Prev 126 0 R /Title (Fellowships and Scholarships)
+/Dest [ 9 0 R /XYZ 57.02362 250.0236 0 ] /Next 128 0 R /Parent 123 0 R /Prev 126 0 R /Title (Employment)
 >>
 endobj
 128 0 obj
 <<
-/Dest [ 9 0 R /XYZ 57.02362 250.0236 0 ] /Next 129 0 R /Parent 124 0 R /Prev 127 0 R /Title (Employment)
+/Dest [ 19 0 R /XYZ 57.02362 489.0236 0 ] /Next 129 0 R /Parent 123 0 R /Prev 127 0 R /Title (Publications)
 >>
 endobj
 129 0 obj
 <<
-/Dest [ 19 0 R /XYZ 57.02362 489.0236 0 ] /Next 130 0 R /Parent 124 0 R /Prev 128 0 R /Title (Publications)
+/Dest [ 89 0 R /XYZ 57.02362 237.0236 0 ] /Next 130 0 R /Parent 123 0 R /Prev 128 0 R /Title (Invited Presentations)
 >>
 endobj
 130 0 obj
 <<
-/Dest [ 88 0 R /XYZ 57.02362 303.0236 0 ] /Next 131 0 R /Parent 124 0 R /Prev 129 0 R /Title (Invited Presentations)
+/Dest [ 100 0 R /XYZ 57.02362 765.0236 0 ] /Next 131 0 R /Parent 123 0 R /Prev 129 0 R /Title (Oral Presentations)
 >>
 endobj
 131 0 obj
 <<
-/Dest [ 98 0 R /XYZ 57.02362 147.0236 0 ] /Next 132 0 R /Parent 124 0 R /Prev 130 0 R /Title (Oral Presentations)
+/Dest [ 101 0 R /XYZ 57.02362 603.0236 0 ] /Next 132 0 R /Parent 123 0 R /Prev 130 0 R /Title (Poster Presentations)
 >>
 endobj
 132 0 obj
 <<
-/Dest [ 100 0 R /XYZ 57.02362 687.0236 0 ] /Next 133 0 R /Parent 124 0 R /Prev 131 0 R /Title (Poster Presentations)
+/Dest [ 108 0 R /XYZ 57.02362 603.0236 0 ] /Next 133 0 R /Parent 123 0 R /Prev 131 0 R /Title (Software)
 >>
 endobj
 133 0 obj
 <<
-/Dest [ 107 0 R /XYZ 57.02362 687.0236 0 ] /Next 134 0 R /Parent 124 0 R /Prev 132 0 R /Title (Software)
+/Dest [ 108 0 R /XYZ 57.02362 336.0236 0 ] /Next 134 0 R /Parent 123 0 R /Prev 132 0 R /Title (Computer Skills)
 >>
 endobj
 134 0 obj
 <<
-/Dest [ 107 0 R /XYZ 57.02362 420.0236 0 ] /Next 135 0 R /Parent 124 0 R /Prev 133 0 R /Title (Computer Skills)
+/Dest [ 117 0 R /XYZ 57.02362 717.0236 0 ] /Next 135 0 R /Parent 123 0 R /Prev 133 0 R /Title (Available Opportunities)
 >>
 endobj
 135 0 obj
 <<
-/Dest [ 118 0 R /XYZ 57.02362 765.0236 0 ] /Next 136 0 R /Parent 124 0 R /Prev 134 0 R /Title (Available Opportunities)
+/Dest [ 117 0 R /XYZ 57.02362 594.0236 0 ] /Next 136 0 R /Parent 123 0 R /Prev 134 0 R /Title (Mentorship)
 >>
 endobj
 136 0 obj
 <<
-/Dest [ 118 0 R /XYZ 57.02362 642.0236 0 ] /Next 137 0 R /Parent 124 0 R /Prev 135 0 R /Title (Mentorship)
+/Dest [ 119 0 R /XYZ 57.02362 638.6929 0 ] /Next 137 0 R /Parent 123 0 R /Prev 135 0 R /Title (Professional Activities)
 >>
 endobj
 137 0 obj
 <<
-/Dest [ 120 0 R /XYZ 57.02362 686.6929 0 ] /Next 138 0 R /Parent 124 0 R /Prev 136 0 R /Title (Professional Activities)
+/Dest [ 119 0 R /XYZ 57.02362 119.6929 0 ] /Next 138 0 R /Parent 123 0 R /Prev 136 0 R /Title (Awards and Honors)
 >>
 endobj
 138 0 obj
 <<
-/Dest [ 120 0 R /XYZ 57.02362 167.6929 0 ] /Next 139 0 R /Parent 124 0 R /Prev 137 0 R /Title (Awards and Honors)
+/Dest [ 120 0 R /XYZ 57.02362 574.0236 0 ] /Next 139 0 R /Parent 123 0 R /Prev 137 0 R /Title (Teaching Experience)
 >>
 endobj
 139 0 obj
 <<
-/Dest [ 121 0 R /XYZ 57.02362 625.0236 0 ] /Next 140 0 R /Parent 124 0 R /Prev 138 0 R /Title (Teaching Experience)
+/Dest [ 120 0 R /XYZ 57.02362 447.0236 0 ] /Parent 123 0 R /Prev 138 0 R /Title (Research Interests)
 >>
 endobj
 140 0 obj
 <<
-/Dest [ 121 0 R /XYZ 57.02362 498.0236 0 ] /Parent 124 0 R /Prev 139 0 R /Title (Research Interests)
+/Count 13 /Kids [ 9 0 R 19 0 R 35 0 R 54 0 R 71 0 R 89 0 R 99 0 R 100 0 R 101 0 R 108 0 R 
+  117 0 R 119 0 R 120 0 R ] /Type /Pages
 >>
 endobj
 141 0 obj
-<<
-/Count 13 /Kids [ 9 0 R 19 0 R 36 0 R 55 0 R 72 0 R 88 0 R 98 0 R 99 0 R 100 0 R 107 0 R 
-  118 0 R 120 0 R 121 0 R ] /Type /Pages
->>
-endobj
-142 0 obj
 <<
 /Length 9655
 >>
@@ -1763,9 +1756,9 @@ Q
  
 endstream
 endobj
-143 0 obj
+142 0 obj
 <<
-/Length 11056
+/Length 11011
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -2241,6 +2234,63 @@ Q
 q
 1 0 0 1 23 15 cm
 q
+BT 1 0 0 1 0 14 Tm 1.749835 Tw 12 TL /F3 10 Tf 0 0 0 rg ("From Intermolecular Poses to Thermodynamics Using Subdivided Spheres") Tj /F1 10 Tf ( I. Vinterbladh, J.) Tj T* 0 Tw (Bye, R. Curtis, H. W. Hatch, S. Grudinin and M. Lund, J. Phys. Chem. B, 130, 27, 6751-6758, 2026.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 9 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://doi.org/10.1021/acs.jpcb.6c01665) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 354.0236 cm
+Q
+q
+1 0 0 1 57.02362 312.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (2.) Tj T* -2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+q
 BT 1 0 0 1 0 14 Tm 7.729835 Tw 12 TL /F3 10 Tf 0 0 0 rg ("Prefetch parallelization and optimization of Monte Carlo in the grand canonical,) Tj T* 0 Tw (isothermal-isobaric, and Gibbs ensemble") Tj /F1 10 Tf ( H. W. Hatch, J. Chem. Phys., 164, 094115, 2026.) Tj T* ET
 Q
 Q
@@ -2281,10 +2331,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 354.0236 cm
+1 0 0 1 57.02362 306.0236 cm
 Q
 q
-1 0 0 1 57.02362 300.0236 cm
+1 0 0 1 57.02362 252.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2292,7 +2342,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (2.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (3.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2338,10 +2388,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 294.0236 cm
+1 0 0 1 57.02362 246.0236 cm
 Q
 q
-1 0 0 1 57.02362 252.0236 cm
+1 0 0 1 57.02362 204.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2349,7 +2399,7 @@ q
 1 0 0 1 6 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (3.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (4.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2395,10 +2445,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 246.0236 cm
+1 0 0 1 57.02362 198.0236 cm
 Q
 q
-1 0 0 1 57.02362 192.0236 cm
+1 0 0 1 57.02362 144.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2406,7 +2456,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (4.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (5.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2452,10 +2502,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 186.0236 cm
+1 0 0 1 57.02362 138.0236 cm
 Q
 q
-1 0 0 1 57.02362 132.0236 cm
+1 0 0 1 57.02362 84.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2463,7 +2513,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (5.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (6.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2509,10 +2559,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 126.0236 cm
+1 0 0 1 57.02362 78.02362 cm
 Q
+ 
+endstream
+endobj
+143 0 obj
+<<
+/Length 10965
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 72.02362 cm
+1 0 0 1 57.02362 711.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2520,7 +2579,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (6.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (7.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2566,19 +2625,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 66.02362 cm
+1 0 0 1 57.02362 705.0236 cm
 Q
- 
-endstream
-endobj
-144 0 obj
-<<
-/Length 11293
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 711.0236 cm
+1 0 0 1 57.02362 651.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2586,7 +2636,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (7.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (8.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2632,10 +2682,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 705.0236 cm
+1 0 0 1 57.02362 645.0236 cm
 Q
 q
-1 0 0 1 57.02362 651.0236 cm
+1 0 0 1 57.02362 591.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2643,7 +2693,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (8.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (9.) Tj T* -2 0 Td ET
 Q
 Q
 q
@@ -2689,18 +2739,18 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 645.0236 cm
+1 0 0 1 57.02362 585.0236 cm
 Q
 q
-1 0 0 1 57.02362 573.0236 cm
+1 0 0 1 57.02362 513.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 57 cm
+1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (9.) Tj T* -2 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (10) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -2772,10 +2822,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 567.0236 cm
+1 0 0 1 57.02362 507.0236 cm
 Q
 q
-1 0 0 1 57.02362 507.0236 cm
+1 0 0 1 57.02362 447.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2783,7 +2833,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (10) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (11) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -2855,10 +2905,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 501.0236 cm
+1 0 0 1 57.02362 441.0236 cm
 Q
 q
-1 0 0 1 57.02362 435.0236 cm
+1 0 0 1 57.02362 375.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2866,7 +2916,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (11) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (12) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -2912,10 +2962,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 429.0236 cm
+1 0 0 1 57.02362 369.0236 cm
 Q
 q
-1 0 0 1 57.02362 357.0236 cm
+1 0 0 1 57.02362 297.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -2923,7 +2973,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (12) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (13) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -2995,10 +3045,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 351.0236 cm
+1 0 0 1 57.02362 291.0236 cm
 Q
 q
-1 0 0 1 57.02362 291.0236 cm
+1 0 0 1 57.02362 231.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3006,7 +3056,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (13) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (14) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3078,10 +3128,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 285.0236 cm
+1 0 0 1 57.02362 225.0236 cm
 Q
 q
-1 0 0 1 57.02362 219.0236 cm
+1 0 0 1 57.02362 159.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3089,7 +3139,7 @@ q
 1 0 0 1 6 39 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (14) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (15) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3135,10 +3185,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 213.0236 cm
+1 0 0 1 57.02362 153.0236 cm
 Q
 q
-1 0 0 1 57.02362 153.0236 cm
+1 0 0 1 57.02362 93.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3146,7 +3196,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (15) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (16) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3218,10 +3268,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 147.0236 cm
+1 0 0 1 57.02362 87.02362 cm
 Q
+ 
+endstream
+endobj
+144 0 obj
+<<
+/Length 11358
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 75.02362 cm
+1 0 0 1 57.02362 693.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3229,7 +3288,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (16) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (17) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3301,19 +3360,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 69.02362 cm
+1 0 0 1 57.02362 687.0236 cm
 Q
- 
-endstream
-endobj
-145 0 obj
-<<
-/Length 11303
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 705.0236 cm
+1 0 0 1 57.02362 627.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3321,7 +3371,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (17) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (18) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3393,10 +3443,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 699.0236 cm
+1 0 0 1 57.02362 621.0236 cm
 Q
 q
-1 0 0 1 57.02362 645.0236 cm
+1 0 0 1 57.02362 567.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3404,7 +3454,7 @@ q
 1 0 0 1 6 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (18) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (19) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3450,10 +3500,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 639.0236 cm
+1 0 0 1 57.02362 561.0236 cm
 Q
 q
-1 0 0 1 57.02362 567.0236 cm
+1 0 0 1 57.02362 489.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3461,7 +3511,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (19) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (20) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3533,10 +3583,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 561.0236 cm
+1 0 0 1 57.02362 483.0236 cm
 Q
 q
-1 0 0 1 57.02362 501.0236 cm
+1 0 0 1 57.02362 423.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3544,7 +3594,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (20) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (21) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3616,10 +3666,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 495.0236 cm
+1 0 0 1 57.02362 417.0236 cm
 Q
 q
-1 0 0 1 57.02362 423.0236 cm
+1 0 0 1 57.02362 345.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3627,7 +3677,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (21) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (22) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3699,10 +3749,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 417.0236 cm
+1 0 0 1 57.02362 339.0236 cm
 Q
 q
-1 0 0 1 57.02362 357.0236 cm
+1 0 0 1 57.02362 279.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3710,7 +3760,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (22) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (23) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3782,10 +3832,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 351.0236 cm
+1 0 0 1 57.02362 273.0236 cm
 Q
 q
-1 0 0 1 57.02362 291.0236 cm
+1 0 0 1 57.02362 213.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3793,7 +3843,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (23) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (24) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3865,10 +3915,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 285.0236 cm
+1 0 0 1 57.02362 207.0236 cm
 Q
 q
-1 0 0 1 57.02362 243.0236 cm
+1 0 0 1 57.02362 165.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3876,7 +3926,7 @@ q
 1 0 0 1 6 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (24) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (25) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -3922,10 +3972,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 237.0236 cm
+1 0 0 1 57.02362 159.0236 cm
 Q
 q
-1 0 0 1 57.02362 165.0236 cm
+1 0 0 1 57.02362 87.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3933,7 +3983,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (25) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (26) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4005,10 +4055,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 159.0236 cm
+1 0 0 1 57.02362 81.02362 cm
 Q
+ 
+endstream
+endobj
+145 0 obj
+<<
+/Length 11321
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 99.02362 cm
+1 0 0 1 57.02362 705.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4016,7 +4075,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (26) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (27) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4088,19 +4147,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 93.02362 cm
+1 0 0 1 57.02362 699.0236 cm
 Q
- 
-endstream
-endobj
-146 0 obj
-<<
-/Length 11299
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 693.0236 cm
+1 0 0 1 57.02362 627.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4108,7 +4158,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (27) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (28) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4180,10 +4230,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 687.0236 cm
+1 0 0 1 57.02362 621.0236 cm
 Q
 q
-1 0 0 1 57.02362 645.0236 cm
+1 0 0 1 57.02362 579.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4191,7 +4241,7 @@ q
 1 0 0 1 6 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (28) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (29) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4237,10 +4287,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 639.0236 cm
+1 0 0 1 57.02362 573.0236 cm
 Q
 q
-1 0 0 1 57.02362 585.0236 cm
+1 0 0 1 57.02362 519.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4248,7 +4298,7 @@ q
 1 0 0 1 6 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (29) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (30) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4294,10 +4344,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 579.0236 cm
+1 0 0 1 57.02362 513.0236 cm
 Q
 q
-1 0 0 1 57.02362 507.0236 cm
+1 0 0 1 57.02362 441.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4305,7 +4355,7 @@ q
 1 0 0 1 6 45 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (30) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (31) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4377,10 +4427,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 501.0236 cm
+1 0 0 1 57.02362 435.0236 cm
 Q
 q
-1 0 0 1 57.02362 459.0236 cm
+1 0 0 1 57.02362 393.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4388,7 +4438,7 @@ q
 1 0 0 1 6 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (31) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (32) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4434,10 +4484,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 453.0236 cm
+1 0 0 1 57.02362 387.0236 cm
 Q
 q
-1 0 0 1 57.02362 411.0236 cm
+1 0 0 1 57.02362 345.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4445,7 +4495,7 @@ q
 1 0 0 1 6 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (32) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (33) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4491,10 +4541,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 405.0236 cm
+1 0 0 1 57.02362 339.0236 cm
 Q
 q
-1 0 0 1 57.02362 351.0236 cm
+1 0 0 1 57.02362 285.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4502,7 +4552,7 @@ q
 1 0 0 1 6 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (33) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (34) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4548,10 +4598,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 345.0236 cm
+1 0 0 1 57.02362 279.0236 cm
 Q
 q
-1 0 0 1 57.02362 291.0236 cm
+1 0 0 1 57.02362 225.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4559,7 +4609,7 @@ q
 1 0 0 1 6 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (34) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (35) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4605,10 +4655,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 285.0236 cm
+1 0 0 1 57.02362 219.0236 cm
 Q
 q
-1 0 0 1 57.02362 225.0236 cm
+1 0 0 1 57.02362 159.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4616,7 +4666,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (35) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (36) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4688,10 +4738,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 219.0236 cm
+1 0 0 1 57.02362 153.0236 cm
 Q
 q
-1 0 0 1 57.02362 159.0236 cm
+1 0 0 1 57.02362 93.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4699,7 +4749,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (36) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (37) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4771,10 +4821,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 153.0236 cm
+1 0 0 1 57.02362 87.02362 cm
 Q
+ 
+endstream
+endobj
+146 0 obj
+<<
+/Length 10994
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 93.02362 cm
+1 0 0 1 57.02362 705.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4782,7 +4841,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (37) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (38) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4854,19 +4913,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 87.02362 cm
+1 0 0 1 57.02362 699.0236 cm
 Q
- 
-endstream
-endobj
-147 0 obj
-<<
-/Length 10928
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 687.0236 cm
+1 0 0 1 57.02362 621.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4874,7 +4924,7 @@ q
 1 0 0 1 6 51 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (38) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (39) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -4972,10 +5022,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 681.0236 cm
+1 0 0 1 57.02362 615.0236 cm
 Q
 q
-1 0 0 1 57.02362 621.0236 cm
+1 0 0 1 57.02362 555.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4983,7 +5033,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (39) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (40) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -5055,10 +5105,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 615.0236 cm
+1 0 0 1 57.02362 549.0236 cm
 Q
 q
-1 0 0 1 57.02362 561.0236 cm
+1 0 0 1 57.02362 495.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5066,7 +5116,7 @@ q
 1 0 0 1 6 27 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (40) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (41) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -5112,10 +5162,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 555.0236 cm
+1 0 0 1 57.02362 489.0236 cm
 Q
 q
-1 0 0 1 57.02362 495.0236 cm
+1 0 0 1 57.02362 429.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5123,7 +5173,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (41) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (42) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -5195,10 +5245,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 489.0236 cm
+1 0 0 1 57.02362 423.0236 cm
 Q
 q
-1 0 0 1 57.02362 429.0236 cm
+1 0 0 1 57.02362 363.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5206,7 +5256,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (42) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (43) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -5278,10 +5328,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 423.0236 cm
+1 0 0 1 57.02362 357.0236 cm
 Q
 q
-1 0 0 1 57.02362 363.0236 cm
+1 0 0 1 57.02362 297.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5289,7 +5339,7 @@ q
 1 0 0 1 6 33 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (43) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (44) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -5361,10 +5411,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 357.0236 cm
+1 0 0 1 57.02362 291.0236 cm
 Q
 q
-1 0 0 1 57.02362 315.0236 cm
+1 0 0 1 57.02362 249.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5372,7 +5422,7 @@ q
 1 0 0 1 6 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (44) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL 2 0 Td (45) Tj T* 6 0 Td (.) Tj T* -8 0 Td ET
 Q
 Q
 q
@@ -5418,29 +5468,29 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 315.0236 cm
+1 0 0 1 57.02362 249.0236 cm
 Q
 q
-1 0 0 1 57.02362 282.0236 cm
+1 0 0 1 57.02362 216.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Invited Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 264.0236 cm
+1 0 0 1 57.02362 198.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All presentations listed here were presented by H. W. Hatch.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 258.0236 cm
+1 0 0 1 57.02362 192.0236 cm
 Q
 q
-1 0 0 1 57.02362 258.0236 cm
+1 0 0 1 57.02362 192.0236 cm
 Q
 q
-1 0 0 1 57.02362 204.0236 cm
+1 0 0 1 57.02362 138.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5494,10 +5544,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 198.0236 cm
+1 0 0 1 57.02362 132.0236 cm
 Q
 q
-1 0 0 1 57.02362 162.0236 cm
+1 0 0 1 57.02362 96.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5519,10 +5569,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 156.0236 cm
+1 0 0 1 57.02362 90.02362 cm
 Q
+ 
+endstream
+endobj
+147 0 obj
+<<
+/Length 9963
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 120.0236 cm
+1 0 0 1 57.02362 729.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5544,49 +5603,24 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 114.0236 cm
+1 0 0 1 57.02362 723.0236 cm
 Q
 q
-1 0 0 1 57.02362 62.69291 cm
+1 0 0 1 57.02362 645.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 36.33071 cm
+1 0 0 1 6 63 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (4.) Tj T* -2 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 24.33071 cm
-q
-BT 1 0 0 1 0 14 Tm 2.480835 Tw 12 TL /F3 10 Tf 0 0 0 rg ("Multiscale Modeling of Monoclonal Antibodies in High Concentration Formulations,") Tj /F1 10 Tf ( H. W.) Tj T* 0 Tw 1.030464 Tw (Hatch, C. Bergonzo, G. Yuan, M. Lund, S. Grudinin, A. V. Grishaev, Y. Liu and V. K. Shen, Stevens) Tj T* 0 Tw ET
-Q
-Q
-q
-Q
-Q
-Q
- 
-endstream
-endobj
-148 0 obj
-<<
-/Length 9943
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 711.0236 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 41 Tm  T* ET
-q
 1 0 0 1 23 27 cm
 q
-BT 1 0 0 1 0 14 Tm 1.438941 Tw 12 TL /F1 10 Tf 0 0 0 rg (Institute of Technology Department of Chemical Engineering and Materials Science Seminar Series,) Tj T* 0 Tw (October 2024) Tj T* ET
+BT 1 0 0 1 0 38 Tm 2.480835 Tw 12 TL /F3 10 Tf 0 0 0 rg ("Multiscale Modeling of Monoclonal Antibodies in High Concentration Formulations,") Tj /F1 10 Tf ( H. W.) Tj T* 0 Tw 1.030464 Tw (Hatch, C. Bergonzo, G. Yuan, M. Lund, S. Grudinin, A. V. Grishaev, Y. Liu and V. K. Shen, Stevens) Tj T* 0 Tw 1.438941 Tw (Institute of Technology Department of Chemical Engineering and Materials Science Seminar Series,) Tj T* 0 Tw (October 2024) Tj T* ET
 Q
 Q
 q
@@ -5626,10 +5660,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 705.0236 cm
+1 0 0 1 57.02362 639.0236 cm
 Q
 q
-1 0 0 1 57.02362 651.0236 cm
+1 0 0 1 57.02362 585.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5683,10 +5717,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 645.0236 cm
+1 0 0 1 57.02362 579.0236 cm
 Q
 q
-1 0 0 1 57.02362 591.0236 cm
+1 0 0 1 57.02362 525.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5740,10 +5774,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 585.0236 cm
+1 0 0 1 57.02362 519.0236 cm
 Q
 q
-1 0 0 1 57.02362 531.0236 cm
+1 0 0 1 57.02362 465.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5797,10 +5831,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 525.0236 cm
+1 0 0 1 57.02362 459.0236 cm
 Q
 q
-1 0 0 1 57.02362 459.0236 cm
+1 0 0 1 57.02362 393.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5854,10 +5888,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 453.0236 cm
+1 0 0 1 57.02362 387.0236 cm
 Q
 q
-1 0 0 1 57.02362 399.0236 cm
+1 0 0 1 57.02362 333.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5911,10 +5945,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 393.0236 cm
+1 0 0 1 57.02362 327.0236 cm
 Q
 q
-1 0 0 1 57.02362 327.0236 cm
+1 0 0 1 57.02362 261.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5968,10 +6002,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 321.0236 cm
+1 0 0 1 57.02362 255.0236 cm
 Q
 q
-1 0 0 1 57.02362 285.0236 cm
+1 0 0 1 57.02362 219.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5993,10 +6027,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 279.0236 cm
+1 0 0 1 57.02362 213.0236 cm
 Q
 q
-1 0 0 1 57.02362 243.0236 cm
+1 0 0 1 57.02362 177.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6018,10 +6052,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 237.0236 cm
+1 0 0 1 57.02362 171.0236 cm
 Q
 q
-1 0 0 1 57.02362 201.0236 cm
+1 0 0 1 57.02362 135.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6043,10 +6077,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 195.0236 cm
+1 0 0 1 57.02362 129.0236 cm
 Q
 q
-1 0 0 1 57.02362 159.0236 cm
+1 0 0 1 57.02362 93.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6068,29 +6102,38 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 159.0236 cm
+1 0 0 1 57.02362 93.02362 cm
 Q
+ 
+endstream
+endobj
+148 0 obj
+<<
+/Length 9836
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 126.0236 cm
+1 0 0 1 57.02362 744.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Oral Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 108.0236 cm
+1 0 0 1 57.02362 726.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All presentations listed here were presented by H. W. Hatch.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 102.0236 cm
+1 0 0 1 57.02362 720.0236 cm
 Q
 q
-1 0 0 1 57.02362 102.0236 cm
+1 0 0 1 57.02362 720.0236 cm
 Q
 q
-1 0 0 1 57.02362 66.02362 cm
+1 0 0 1 57.02362 684.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6112,19 +6155,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 62.69291 cm
+1 0 0 1 57.02362 678.0236 cm
 Q
- 
-endstream
-endobj
-149 0 obj
-<<
-/Length 10148
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 729.0236 cm
+1 0 0 1 57.02362 642.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6146,10 +6180,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 723.0236 cm
+1 0 0 1 57.02362 636.0236 cm
 Q
 q
-1 0 0 1 57.02362 687.0236 cm
+1 0 0 1 57.02362 600.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6171,10 +6205,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 681.0236 cm
+1 0 0 1 57.02362 594.0236 cm
 Q
 q
-1 0 0 1 57.02362 645.0236 cm
+1 0 0 1 57.02362 558.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6196,10 +6230,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 639.0236 cm
+1 0 0 1 57.02362 552.0236 cm
 Q
 q
-1 0 0 1 57.02362 615.0236 cm
+1 0 0 1 57.02362 528.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6221,10 +6255,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 609.0236 cm
+1 0 0 1 57.02362 522.0236 cm
 Q
 q
-1 0 0 1 57.02362 573.0236 cm
+1 0 0 1 57.02362 486.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6246,10 +6280,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 567.0236 cm
+1 0 0 1 57.02362 480.0236 cm
 Q
 q
-1 0 0 1 57.02362 531.0236 cm
+1 0 0 1 57.02362 444.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6271,10 +6305,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 525.0236 cm
+1 0 0 1 57.02362 438.0236 cm
 Q
 q
-1 0 0 1 57.02362 489.0236 cm
+1 0 0 1 57.02362 402.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6296,10 +6330,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 483.0236 cm
+1 0 0 1 57.02362 396.0236 cm
 Q
 q
-1 0 0 1 57.02362 459.0236 cm
+1 0 0 1 57.02362 372.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6321,10 +6355,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 453.0236 cm
+1 0 0 1 57.02362 366.0236 cm
 Q
 q
-1 0 0 1 57.02362 417.0236 cm
+1 0 0 1 57.02362 330.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6346,10 +6380,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 411.0236 cm
+1 0 0 1 57.02362 324.0236 cm
 Q
 q
-1 0 0 1 57.02362 375.0236 cm
+1 0 0 1 57.02362 288.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6371,10 +6405,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 369.0236 cm
+1 0 0 1 57.02362 282.0236 cm
 Q
 q
-1 0 0 1 57.02362 333.0236 cm
+1 0 0 1 57.02362 246.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6396,10 +6430,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 327.0236 cm
+1 0 0 1 57.02362 240.0236 cm
 Q
 q
-1 0 0 1 57.02362 291.0236 cm
+1 0 0 1 57.02362 204.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6421,10 +6455,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 285.0236 cm
+1 0 0 1 57.02362 198.0236 cm
 Q
 q
-1 0 0 1 57.02362 237.0236 cm
+1 0 0 1 57.02362 150.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6446,10 +6480,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 231.0236 cm
+1 0 0 1 57.02362 144.0236 cm
 Q
 q
-1 0 0 1 57.02362 195.0236 cm
+1 0 0 1 57.02362 108.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6471,10 +6505,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 189.0236 cm
+1 0 0 1 57.02362 102.0236 cm
 Q
 q
-1 0 0 1 57.02362 153.0236 cm
+1 0 0 1 57.02362 66.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6496,10 +6530,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 147.0236 cm
+1 0 0 1 57.02362 62.69291 cm
 Q
+ 
+endstream
+endobj
+149 0 obj
+<<
+/Length 9156
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 111.0236 cm
+1 0 0 1 57.02362 729.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6521,10 +6564,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 105.0236 cm
+1 0 0 1 57.02362 723.0236 cm
 Q
 q
-1 0 0 1 57.02362 69.02362 cm
+1 0 0 1 57.02362 687.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6546,19 +6589,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 63.02362 cm
+1 0 0 1 57.02362 681.0236 cm
 Q
- 
-endstream
-endobj
-150 0 obj
-<<
-/Length 9113
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 741.0236 cm
+1 0 0 1 57.02362 657.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6580,10 +6614,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 735.0236 cm
+1 0 0 1 57.02362 651.0236 cm
 Q
 q
-1 0 0 1 57.02362 699.0236 cm
+1 0 0 1 57.02362 615.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6605,29 +6639,29 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 699.0236 cm
+1 0 0 1 57.02362 615.0236 cm
 Q
 q
-1 0 0 1 57.02362 666.0236 cm
+1 0 0 1 57.02362 582.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Poster Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 648.0236 cm
+1 0 0 1 57.02362 564.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All presentations listed here were presented by H. W. Hatch.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 642.0236 cm
+1 0 0 1 57.02362 558.0236 cm
 Q
 q
-1 0 0 1 57.02362 642.0236 cm
+1 0 0 1 57.02362 558.0236 cm
 Q
 q
-1 0 0 1 57.02362 606.0236 cm
+1 0 0 1 57.02362 522.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6649,10 +6683,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 600.0236 cm
+1 0 0 1 57.02362 516.0236 cm
 Q
 q
-1 0 0 1 57.02362 576.0236 cm
+1 0 0 1 57.02362 492.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6674,10 +6708,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 570.0236 cm
+1 0 0 1 57.02362 486.0236 cm
 Q
 q
-1 0 0 1 57.02362 534.0236 cm
+1 0 0 1 57.02362 450.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6699,10 +6733,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 528.0236 cm
+1 0 0 1 57.02362 444.0236 cm
 Q
 q
-1 0 0 1 57.02362 504.0236 cm
+1 0 0 1 57.02362 420.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6724,10 +6758,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 498.0236 cm
+1 0 0 1 57.02362 414.0236 cm
 Q
 q
-1 0 0 1 57.02362 462.0236 cm
+1 0 0 1 57.02362 378.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6749,10 +6783,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 456.0236 cm
+1 0 0 1 57.02362 372.0236 cm
 Q
 q
-1 0 0 1 57.02362 408.0236 cm
+1 0 0 1 57.02362 324.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6774,10 +6808,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 402.0236 cm
+1 0 0 1 57.02362 318.0236 cm
 Q
 q
-1 0 0 1 57.02362 366.0236 cm
+1 0 0 1 57.02362 282.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6799,10 +6833,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 360.0236 cm
+1 0 0 1 57.02362 276.0236 cm
 Q
 q
-1 0 0 1 57.02362 324.0236 cm
+1 0 0 1 57.02362 240.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6824,10 +6858,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 318.0236 cm
+1 0 0 1 57.02362 234.0236 cm
 Q
 q
-1 0 0 1 57.02362 270.0236 cm
+1 0 0 1 57.02362 186.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6849,10 +6883,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 264.0236 cm
+1 0 0 1 57.02362 180.0236 cm
 Q
 q
-1 0 0 1 57.02362 228.0236 cm
+1 0 0 1 57.02362 144.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6874,10 +6908,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 222.0236 cm
+1 0 0 1 57.02362 138.0236 cm
 Q
 q
-1 0 0 1 57.02362 186.0236 cm
+1 0 0 1 57.02362 102.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6899,10 +6933,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 180.0236 cm
+1 0 0 1 57.02362 96.02362 cm
 Q
+ 
+endstream
+endobj
+150 0 obj
+<<
+/Length 10383
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 144.0236 cm
+1 0 0 1 57.02362 729.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6924,10 +6967,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 138.0236 cm
+1 0 0 1 57.02362 723.0236 cm
 Q
 q
-1 0 0 1 57.02362 102.0236 cm
+1 0 0 1 57.02362 687.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6949,19 +6992,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 96.02362 cm
+1 0 0 1 57.02362 681.0236 cm
 Q
- 
-endstream
-endobj
-151 0 obj
-<<
-/Length 9856
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 729.0236 cm
+1 0 0 1 57.02362 645.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6983,10 +7017,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 723.0236 cm
+1 0 0 1 57.02362 639.0236 cm
 Q
 q
-1 0 0 1 57.02362 699.0236 cm
+1 0 0 1 57.02362 615.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7008,22 +7042,22 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 699.0236 cm
+1 0 0 1 57.02362 615.0236 cm
 Q
 q
-1 0 0 1 57.02362 666.0236 cm
+1 0 0 1 57.02362 582.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Software) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 654.0236 cm
+1 0 0 1 57.02362 570.0236 cm
 Q
 q
-1 0 0 1 57.02362 654.0236 cm
+1 0 0 1 57.02362 570.0236 cm
 Q
 q
-1 0 0 1 57.02362 504.0236 cm
+1 0 0 1 57.02362 420.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7233,10 +7267,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 498.0236 cm
+1 0 0 1 57.02362 414.0236 cm
 Q
 q
-1 0 0 1 57.02362 432.0236 cm
+1 0 0 1 57.02362 348.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7343,32 +7377,32 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 432.0236 cm
+1 0 0 1 57.02362 348.0236 cm
 Q
 q
-1 0 0 1 57.02362 399.0236 cm
+1 0 0 1 57.02362 315.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Computer Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 381.0236 cm
+1 0 0 1 57.02362 297.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Programming Languages) Tj /F1 10 Tf (: C++, python, FORTRAN, bash, LaTeX) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 363.0236 cm
+1 0 0 1 57.02362 279.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Software Engineering) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 357.0236 cm
+1 0 0 1 57.02362 273.0236 cm
 Q
 q
-1 0 0 1 57.02362 267.0236 cm
+1 0 0 1 57.02362 183.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7514,20 +7548,20 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 267.0236 cm
+1 0 0 1 57.02362 183.0236 cm
 Q
 q
-1 0 0 1 57.02362 249.0236 cm
+1 0 0 1 57.02362 165.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (High Performance Computer Cluster Building and Administration) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 243.0236 cm
+1 0 0 1 57.02362 159.0236 cm
 Q
 q
-1 0 0 1 57.02362 189.0236 cm
+1 0 0 1 57.02362 105.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7621,20 +7655,20 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 189.0236 cm
+1 0 0 1 57.02362 105.0236 cm
 Q
 q
-1 0 0 1 57.02362 171.0236 cm
+1 0 0 1 57.02362 87.02362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Website Administration) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 165.0236 cm
+1 0 0 1 57.02362 81.02362 cm
 Q
 q
-1 0 0 1 57.02362 147.0236 cm
+1 0 0 1 57.02362 63.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7676,20 +7710,29 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 147.0236 cm
+1 0 0 1 57.02362 63.02362 cm
 Q
+ 
+endstream
+endobj
+151 0 obj
+<<
+/Length 11159
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 129.0236 cm
+1 0 0 1 57.02362 753.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Other Software) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 123.0236 cm
+1 0 0 1 57.02362 747.0236 cm
 Q
 q
-1 0 0 1 57.02362 105.0236 cm
+1 0 0 1 57.02362 729.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7731,28 +7774,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 105.0236 cm
+1 0 0 1 57.02362 729.0236 cm
 Q
- 
-endstream
-endobj
-152 0 obj
-<<
-/Length 11318
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 744.0236 cm
+1 0 0 1 57.02362 696.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Available Opportunities) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 732.0236 cm
+1 0 0 1 57.02362 684.0236 cm
 Q
 q
-1 0 0 1 57.02362 654.0236 cm
+1 0 0 1 57.02362 606.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7778,7 +7812,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm 2.286796 Tw 12 TL /F1 10 Tf 0 0 0 rg (For current graduate students, contact me about applying for the ) Tj 0 .4 .6 rg (NIST NRC RAP Fellowship) Tj T* 0 Tw (Opporunity 1) Tj 0 0 0 rg ( or ) Tj 0 .4 .6 rg (2) Tj  T* ET
+BT 1 0 0 1 0 14 Tm .361772 Tw 12 TL /F1 10 Tf 0 0 0 rg (For current graduate students \(or graduated in the last 5 years\), contact me about applying for the) Tj T* 0 Tw 0 .4 .6 rg (NIST NRC RAP Fellowship) Tj  T* ET
 Q
 Q
 q
@@ -7844,22 +7878,22 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 654.0236 cm
+1 0 0 1 57.02362 606.0236 cm
 Q
 q
-1 0 0 1 57.02362 621.0236 cm
+1 0 0 1 57.02362 573.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Mentorship) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 609.0236 cm
+1 0 0 1 57.02362 561.0236 cm
 Q
 q
-1 0 0 1 57.02362 609.0236 cm
+1 0 0 1 57.02362 561.0236 cm
 Q
 q
-1 0 0 1 57.02362 579.0236 cm
+1 0 0 1 57.02362 531.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -7913,10 +7947,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 573.0236 cm
+1 0 0 1 57.02362 525.0236 cm
 Q
 q
-1 0 0 1 57.02362 507.0236 cm
+1 0 0 1 57.02362 459.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8021,10 +8055,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 501.0236 cm
+1 0 0 1 57.02362 453.0236 cm
 Q
 q
-1 0 0 1 57.02362 423.0236 cm
+1 0 0 1 57.02362 375.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8130,10 +8164,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 417.0236 cm
+1 0 0 1 57.02362 369.0236 cm
 Q
 q
-1 0 0 1 57.02362 357.0236 cm
+1 0 0 1 57.02362 309.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8213,10 +8247,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 351.0236 cm
+1 0 0 1 57.02362 303.0236 cm
 Q
 q
-1 0 0 1 57.02362 309.0236 cm
+1 0 0 1 57.02362 261.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8270,10 +8304,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 303.0236 cm
+1 0 0 1 57.02362 255.0236 cm
 Q
 q
-1 0 0 1 57.02362 171.0236 cm
+1 0 0 1 57.02362 123.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8457,34 +8491,34 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 165.0236 cm
+1 0 0 1 57.02362 117.0236 cm
 Q
 q
-1 0 0 1 57.02362 87.02362 cm
+1 0 0 1 57.02362 69.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 63 cm
+1 0 0 1 6 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (7.) Tj T* -2 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 63 cm
+1 0 0 1 23 33 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Gordon W. McCann) Tj /F1 10 Tf (, Summer Undergraduate Research Fellow, 2016) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 57 cm
+1 0 0 1 23 27 cm
 Q
 q
-1 0 0 1 23 57 cm
+1 0 0 1 23 27 cm
 Q
 q
-1 0 0 1 23 45 cm
+1 0 0 1 23 15 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8507,10 +8541,10 @@ Q
 Q
 Q
 q
-1 0 0 1 23 39 cm
+1 0 0 1 23 9 cm
 Q
 q
-1 0 0 1 23 27 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -8532,6 +8566,25 @@ q
 Q
 Q
 Q
+q
+Q
+Q
+Q
+ 
+endstream
+endobj
+152 0 obj
+<<
+/Length 10179
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 740.6929 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 11.33071 Tm  T* ET
 q
 1 0 0 1 23 21 cm
 Q
@@ -8566,45 +8619,26 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 81.02362 cm
+1 0 0 1 57.02362 734.6929 cm
 Q
 q
-1 0 0 1 57.02362 69.02362 cm
+1 0 0 1 57.02362 650.6929 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 69 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 2 0 Td (8.) Tj T* -2 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 69 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Seung-Yeob Yang) Tj /F1 10 Tf (, Montegomery College/MML Internship, 2015) Tj T* ET
 Q
 Q
-q
-Q
-Q
-Q
- 
-endstream
-endobj
-153 0 obj
-<<
-/Length 10319
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 698.6929 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 53.33071 Tm  T* ET
 q
 1 0 0 1 23 63 cm
 Q
@@ -8720,19 +8754,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 698.6929 cm
+1 0 0 1 57.02362 650.6929 cm
 Q
 q
-1 0 0 1 57.02362 665.6929 cm
+1 0 0 1 57.02362 617.6929 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Professional Activities) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 653.6929 cm
+1 0 0 1 57.02362 605.6929 cm
 Q
 q
-1 0 0 1 57.02362 179.6929 cm
+1 0 0 1 57.02362 131.6929 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -9306,29 +9340,74 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 179.6929 cm
+1 0 0 1 57.02362 131.6929 cm
 Q
 q
-1 0 0 1 57.02362 146.6929 cm
+1 0 0 1 57.02362 98.69291 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Awards and Honors) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 128.6929 cm
+1 0 0 1 57.02362 80.69291 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Princeton University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 71.69291 cm
+1 0 0 1 287.6378 65.69291 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 44 Tm  T* ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 6 cm
+Q
+q
+1 0 0 1 20 6 cm
+Q
+q
+Q
+Q
+Q
+ 
+endstream
+endobj
+153 0 obj
+<<
+/Length 6263
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 696.0236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 56 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Schowalter Travel Award, 2011) Tj T* ET
+Q
+Q
+q
+Q
+Q
 Q
 q
 1 0 0 1 20 48 cm
@@ -9349,7 +9428,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Schowalter Travel Award, 2011) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gordon Research Conference Travel Award, 2010) Tj T* ET
 Q
 Q
 q
@@ -9375,32 +9454,6 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gordon Research Conference Travel Award, 2010) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 20 12 cm
-Q
-q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (School of Engineering and Applied Science Commendation for Outstanding Teaching, 2010) Tj T* ET
 Q
 Q
@@ -9408,25 +9461,6 @@ q
 Q
 Q
 Q
-q
-Q
-Q
-Q
- 
-endstream
-endobj
-154 0 obj
-<<
-/Length 5347
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 747.0236 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 5 Tm  T* ET
 q
 1 0 0 1 20 12 cm
 Q
@@ -9461,14 +9495,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 731.0236 cm
+1 0 0 1 57.02362 680.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Tulane University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 674.0236 cm
+1 0 0 1 57.02362 623.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -9562,14 +9596,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 658.0236 cm
+1 0 0 1 57.02362 607.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Auburn University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 637.0236 cm
+1 0 0 1 57.02362 586.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -9611,20 +9645,20 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 604.0236 cm
+1 0 0 1 57.02362 553.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Teaching Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 586.0236 cm
+1 0 0 1 57.02362 535.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Princeton University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 547.0236 cm
+1 0 0 1 57.02362 496.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -9692,14 +9726,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 531.0236 cm
+1 0 0 1 57.02362 480.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Tulane University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 510.0236 cm
+1 0 0 1 57.02362 459.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -9741,16 +9775,16 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 477.0236 cm
+1 0 0 1 57.02362 426.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Research Interests) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 465.0236 cm
+1 0 0 1 57.02362 414.0236 cm
 Q
 q
-1 0 0 1 57.02362 393.0236 cm
+1 0 0 1 57.02362 342.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -9870,85 +9904,85 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 393.0236 cm
+1 0 0 1 57.02362 342.0236 cm
 Q
  
 endstream
 endobj
-155 0 obj
+154 0 obj
 <<
-/Nums [ 0 156 0 R 1 157 0 R 2 158 0 R 3 159 0 R 4 160 0 R 
-  5 161 0 R 6 162 0 R 7 163 0 R 8 164 0 R 9 165 0 R 
-  10 166 0 R 11 167 0 R 12 168 0 R ]
+/Nums [ 0 155 0 R 1 156 0 R 2 157 0 R 3 158 0 R 4 159 0 R 
+  5 160 0 R 6 161 0 R 7 162 0 R 8 163 0 R 9 164 0 R 
+  10 165 0 R 11 166 0 R 12 167 0 R ]
 >>
 endobj
-156 0 obj
+155 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-157 0 obj
+156 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-158 0 obj
+157 0 obj
 <<
 /S /D /St 3
 >>
 endobj
-159 0 obj
+158 0 obj
 <<
 /S /D /St 4
 >>
 endobj
-160 0 obj
+159 0 obj
 <<
 /S /D /St 5
 >>
 endobj
-161 0 obj
+160 0 obj
 <<
 /S /D /St 6
 >>
 endobj
-162 0 obj
+161 0 obj
 <<
 /S /D /St 7
 >>
 endobj
-163 0 obj
+162 0 obj
 <<
 /S /D /St 8
 >>
 endobj
-164 0 obj
+163 0 obj
 <<
 /S /D /St 9
 >>
 endobj
-165 0 obj
+164 0 obj
 <<
 /S /D /St 10
 >>
 endobj
-166 0 obj
+165 0 obj
 <<
 /S /D /St 11
 >>
 endobj
-167 0 obj
+166 0 obj
 <<
 /S /D /St 12
 >>
 endobj
-168 0 obj
+167 0 obj
 <<
 /S /D /St 13
 >>
 endobj
 xref
-0 169
+0 168
 0000000000 65535 f 
 0000000073 00000 n 
 0000000145 00000 n 
@@ -9963,171 +9997,170 @@ xref
 0000001581 00000 n 
 0000001795 00000 n 
 0000001985 00000 n 
-0000002171 00000 n 
-0000002357 00000 n 
-0000002552 00000 n 
+0000002178 00000 n 
+0000002364 00000 n 
+0000002550 00000 n 
 0000002745 00000 n 
-0000002945 00000 n 
+0000002938 00000 n 
 0000003138 00000 n 
 0000003421 00000 n 
-0000003617 00000 n 
-0000003808 00000 n 
-0000003994 00000 n 
-0000004201 00000 n 
-0000004387 00000 n 
-0000004594 00000 n 
-0000004796 00000 n 
-0000004982 00000 n 
-0000005190 00000 n 
+0000003614 00000 n 
+0000003810 00000 n 
+0000004001 00000 n 
+0000004187 00000 n 
+0000004394 00000 n 
+0000004580 00000 n 
+0000004787 00000 n 
+0000004989 00000 n 
+0000005175 00000 n 
 0000005383 00000 n 
-0000005597 00000 n 
+0000005576 00000 n 
 0000005790 00000 n 
-0000005977 00000 n 
-0000006191 00000 n 
+0000005983 00000 n 
+0000006170 00000 n 
 0000006384 00000 n 
-0000006585 00000 n 
-0000006920 00000 n 
-0000007113 00000 n 
-0000007327 00000 n 
+0000006712 00000 n 
+0000006905 00000 n 
+0000007106 00000 n 
+0000007299 00000 n 
 0000007513 00000 n 
 0000007699 00000 n 
-0000007913 00000 n 
-0000008106 00000 n 
-0000008312 00000 n 
-0000008505 00000 n 
-0000008719 00000 n 
-0000008917 00000 n 
-0000009131 00000 n 
-0000009318 00000 n 
-0000009532 00000 n 
-0000009721 00000 n 
+0000007885 00000 n 
+0000008099 00000 n 
+0000008292 00000 n 
+0000008498 00000 n 
+0000008691 00000 n 
+0000008905 00000 n 
+0000009103 00000 n 
+0000009317 00000 n 
+0000009504 00000 n 
+0000009718 00000 n 
 0000009907 00000 n 
-0000010121 00000 n 
-0000010308 00000 n 
-0000010522 00000 n 
-0000010871 00000 n 
-0000011066 00000 n 
-0000011280 00000 n 
+0000010093 00000 n 
+0000010307 00000 n 
+0000010656 00000 n 
+0000010843 00000 n 
+0000011057 00000 n 
+0000011252 00000 n 
 0000011466 00000 n 
 0000011652 00000 n 
-0000011839 00000 n 
-0000012053 00000 n 
+0000011838 00000 n 
+0000012025 00000 n 
 0000012239 00000 n 
-0000012428 00000 n 
+0000012425 00000 n 
 0000012614 00000 n 
-0000012798 00000 n 
-0000012985 00000 n 
-0000013199 00000 n 
-0000013398 00000 n 
-0000013602 00000 n 
-0000013791 00000 n 
-0000013999 00000 n 
-0000014334 00000 n 
-0000014524 00000 n 
-0000014738 00000 n 
-0000014937 00000 n 
-0000015126 00000 n 
-0000015334 00000 n 
-0000015412 00000 n 
-0000015601 00000 n 
-0000015790 00000 n 
-0000015993 00000 n 
-0000016182 00000 n 
-0000016385 00000 n 
-0000016574 00000 n 
-0000016777 00000 n 
-0000016966 00000 n 
-0000017169 00000 n 
-0000017490 00000 n 
-0000017753 00000 n 
-0000018016 00000 n 
+0000012800 00000 n 
+0000012984 00000 n 
+0000013171 00000 n 
+0000013385 00000 n 
+0000013584 00000 n 
+0000013788 00000 n 
+0000014123 00000 n 
+0000014312 00000 n 
+0000014520 00000 n 
+0000014710 00000 n 
+0000014924 00000 n 
+0000015123 00000 n 
+0000015312 00000 n 
+0000015520 00000 n 
+0000015598 00000 n 
+0000015787 00000 n 
+0000015976 00000 n 
+0000016179 00000 n 
+0000016368 00000 n 
+0000016571 00000 n 
+0000016760 00000 n 
+0000016963 00000 n 
+0000017152 00000 n 
+0000017355 00000 n 
+0000017690 00000 n 
+0000017953 00000 n 
 0000018216 00000 n 
-0000018448 00000 n 
-0000018677 00000 n 
-0000018858 00000 n 
-0000019081 00000 n 
-0000019329 00000 n 
-0000019577 00000 n 
-0000019860 00000 n 
-0000020068 00000 n 
-0000020277 00000 n 
-0000020461 00000 n 
-0000020650 00000 n 
-0000020840 00000 n 
-0000021025 00000 n 
-0000021227 00000 n 
-0000021414 00000 n 
-0000021683 00000 n 
-0000021929 00000 n 
-0000022175 00000 n 
-0000022421 00000 n 
-0000022600 00000 n 
-0000022820 00000 n 
-0000023011 00000 n 
-0000023198 00000 n 
-0000023385 00000 n 
-0000023572 00000 n 
-0000023762 00000 n 
-0000024063 00000 n 
-0000024251 00000 n 
-0000024480 00000 n 
-0000024689 00000 n 
-0000024799 00000 n 
-0000025058 00000 n 
-0000025136 00000 n 
-0000025275 00000 n 
-0000025402 00000 n 
-0000025548 00000 n 
-0000025676 00000 n 
-0000025807 00000 n 
-0000025947 00000 n 
-0000026084 00000 n 
-0000026224 00000 n 
-0000026352 00000 n 
-0000026487 00000 n 
-0000026630 00000 n 
-0000026760 00000 n 
-0000026903 00000 n 
-0000027040 00000 n 
-0000027179 00000 n 
-0000027303 00000 n 
-0000027457 00000 n 
-0000037165 00000 n 
-0000048275 00000 n 
-0000059622 00000 n 
-0000070979 00000 n 
-0000082332 00000 n 
-0000093314 00000 n 
-0000103310 00000 n 
-0000113512 00000 n 
-0000122678 00000 n 
-0000132587 00000 n 
-0000143959 00000 n 
-0000154332 00000 n 
-0000159732 00000 n 
-0000159904 00000 n 
-0000159939 00000 n 
-0000159974 00000 n 
-0000160009 00000 n 
-0000160044 00000 n 
-0000160079 00000 n 
-0000160114 00000 n 
-0000160149 00000 n 
-0000160184 00000 n 
-0000160219 00000 n 
-0000160255 00000 n 
-0000160291 00000 n 
-0000160327 00000 n 
+0000018416 00000 n 
+0000018648 00000 n 
+0000018877 00000 n 
+0000019058 00000 n 
+0000019281 00000 n 
+0000019529 00000 n 
+0000019777 00000 n 
+0000020060 00000 n 
+0000020269 00000 n 
+0000020478 00000 n 
+0000020662 00000 n 
+0000020851 00000 n 
+0000021041 00000 n 
+0000021226 00000 n 
+0000021428 00000 n 
+0000021615 00000 n 
+0000021884 00000 n 
+0000022130 00000 n 
+0000022309 00000 n 
+0000022529 00000 n 
+0000022720 00000 n 
+0000022907 00000 n 
+0000023094 00000 n 
+0000023281 00000 n 
+0000023471 00000 n 
+0000023756 00000 n 
+0000023944 00000 n 
+0000024173 00000 n 
+0000024382 00000 n 
+0000024492 00000 n 
+0000024751 00000 n 
+0000024829 00000 n 
+0000024968 00000 n 
+0000025095 00000 n 
+0000025241 00000 n 
+0000025369 00000 n 
+0000025500 00000 n 
+0000025640 00000 n 
+0000025778 00000 n 
+0000025918 00000 n 
+0000026046 00000 n 
+0000026181 00000 n 
+0000026324 00000 n 
+0000026454 00000 n 
+0000026597 00000 n 
+0000026734 00000 n 
+0000026873 00000 n 
+0000026997 00000 n 
+0000027152 00000 n 
+0000036860 00000 n 
+0000047925 00000 n 
+0000058944 00000 n 
+0000070356 00000 n 
+0000081731 00000 n 
+0000092779 00000 n 
+0000102795 00000 n 
+0000112684 00000 n 
+0000121893 00000 n 
+0000132330 00000 n 
+0000143543 00000 n 
+0000153776 00000 n 
+0000160092 00000 n 
+0000160264 00000 n 
+0000160299 00000 n 
+0000160334 00000 n 
+0000160369 00000 n 
+0000160404 00000 n 
+0000160439 00000 n 
+0000160474 00000 n 
+0000160509 00000 n 
+0000160544 00000 n 
+0000160579 00000 n 
+0000160615 00000 n 
+0000160651 00000 n 
+0000160687 00000 n 
 trailer
 <<
 /ID 
-[<383aab6e2d2437c0eb8b195613a06633><383aab6e2d2437c0eb8b195613a06633>]
+[<088f2ace4c010137990fa75cfb947c34><088f2ace4c010137990fa75cfb947c34>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 123 0 R
-/Root 122 0 R
-/Size 169
+/Info 122 0 R
+/Root 121 0 R
+/Size 168
 >>
 startxref
-160363
+160723
 %%EOF
