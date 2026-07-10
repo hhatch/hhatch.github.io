@@ -75,6 +75,10 @@ Publications
 - https://scholar.google.com/citations?user=PUX35HgAAAAJ&hl=eni
 - https://orcid.org/0000-0003-2926-9145
 
+#. **"From Intermolecular Poses to Thermodynamics Using Subdivided Spheres"** I. Vinterbladh, J. Bye, R. Curtis, H. W. Hatch, S. Grudinin and M. Lund, J. Phys. Chem. B, 130, 27, 6751-6758, 2026.
+
+   - https://doi.org/10.1021/acs.jpcb.6c01665
+
 #. **"Prefetch parallelization and optimization of Monte Carlo in the grand canonical, isothermal-isobaric, and Gibbs ensemble"** H. W. Hatch, J. Chem. Phys., 164, 094115, 2026.
 
    - https://doi.org/10.1063/5.0316275
