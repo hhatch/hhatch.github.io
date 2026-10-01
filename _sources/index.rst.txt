@@ -3,8 +3,8 @@ Harold Wickes Hatch (a.k.a. Wick)
 
 **Chemical Engineer**, National Institute of Standards and Technology
   - Material Measurement Laboratory
-  - Chemical Sciences Division
-  - Chemical Informatics Group
+  - Material Data Division
+  - Theory, Modeling, and Simulation Group
   - 100 Bureau Dr., Gaithersburg, MD 20899-8320
 
 **Contact**
@@ -43,7 +43,7 @@ Employment
 ========================
 
 **Chemical Engineer**, NIST, Gaithersburg, MD
-  - Chemical Informatics Research Group, Chemical Sciences Division, MML
+  - Theory, Modeling, and Simulation Group, Material Data Division, Material Measurement Lab
   - Simulating complex fluids using flat-histogram sampling methods and novel conformational sampling techniques
   - Modeling monoclonal antibodies for applications in biomanufacturing
   - Predicting thermodynamic properties of colloidal systems and self-assembling fluids for the design of new materials
@@ -115,6 +115,7 @@ Publications
 
    - https://doi.org/10.1063/5.0224809
    - https://hhatch.github.io/papers/JCPv161n94113y2024.pdf
+   - Erratum: https://doi.org/10.1063/5.0343912
 
 #. **"Monte Carlo molecular simulations with FEASST version 0.25.1"** H. W. Hatch, D. W. Siderius and V. K. Shen, J. Chem. Phys., 161, 9, 092501, 2024.
 
